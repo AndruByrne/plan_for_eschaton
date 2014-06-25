@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="survival">survival:</string>
+    <string name="checking_for_survival">Checking For Survival</string>
+    <string name="run_simulation">Run Sim</string>
+    <string name="time_label">Time:</string>
+    <string name="shortest_path">Shortest Path</string>
+    <string name="longest_life">Longest Life</string>
+</resources>
